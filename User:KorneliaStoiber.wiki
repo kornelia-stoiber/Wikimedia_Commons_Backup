@@ -58,7 +58,7 @@
 
 {{clear}}
 
-More information is available on the Wikipedia user page [https://wikipedia.org/wiki/User:KorneliaStoiber KorneliaStoiber].
+More information is available on the [https://wikipedia.org/wiki/Wikipedia Wikipedia] user page [https://wikipedia.org/wiki/User:KorneliaStoiber KorneliaStoiber].
 
 {{clear}}
 {{Userpage}}
