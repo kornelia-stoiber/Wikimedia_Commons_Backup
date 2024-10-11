@@ -30,7 +30,7 @@
 '''Drafts:''' This user has created the [https://en.wikipedia.org/wiki/Wikipedia Wikipedia] drafts 
 [https://en.wikipedia.org/wiki/Draft:Wonderful_Drinks Draft:Wonderful Drinks], [https://en.wikipedia.org/wiki/Draft:Hummingbird_Bike Draft:Hummingbird Bike], [https://en.wikipedia.org/wiki/Draft:Ride_Colibri Draft:Ride Colibri], [https://en.wikipedia.org/wiki/Draft:Organifarms Draft:Organifarms],
 [https://en.wikipedia.org/wiki/Draft:Organic_Batteries Draft:Organic Batteries] and 
-[https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking_Safety].
+[https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking Safety].
 
 {| style="float: left; margin-right: 1em; margin-bottom: 1em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
