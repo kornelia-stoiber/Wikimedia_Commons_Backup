@@ -1,11 +1,37 @@
-{| style="float: right; margin-left: 1em; margin-bottom: 1em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
-|-
-| '''<big>[https://en.wikipedia.org/wiki/Wikipedian Wikipedian]</big>'''
-|-
-| [[File:Dew on grass Luc Viatour.jpg |thumb|upright=200px|center|alt=From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)|This user believes in [https://en.wikipedia.org/wiki/Organic_products organic products] and [https://en.wikipedia.org/wiki/Green_technology green technology]. (Image: "[https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg dew on grass]" by [https://commons.wikimedia.org/wiki/User:Lviatour Luc Viatour])]]
-|-
-| [[File:IBM Q system (Fraunhofer 2).jpg|thumb|upright=200px|center|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)|This user is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [https://en.wikipedia.org/wiki/IBM_Research IBM Research])]]
-|}
+{{Infobox person
+| birth_name         = [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
+| image              = File:Dew on grass Luc Viatour.jpg
+| image_size         = 
+| image_upright      = 
+| alt                = From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)
+| caption            = This user believes in [https://en.wikipedia.org/wiki/Organic_products organic products] and [https://en.wikipedia.org/wiki/Green_technology green technology]. (Image: "[https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg dew on grass]" by [https://commons.wikimedia.org/wiki/User:Lviatour Luc Viatour])
+| occupation         = [https://en.wikipedia.org/wiki/Computer_scientist Computer Scientist]
+| nationality        = [https://en.m.wikipedia.org/wiki/Austrian Austrian]
+| education          =
+*[https://en.wikipedia.org/wiki/University_College_London University College London]
+*[https://en.wikipedia.org/wiki/University_of_Hertfordshire University of Hertfordshire]
+*[https://en.wikipedia.org/wiki/Aalborg_University Aalborg University]
+*[https://de.wikipedia.org/wiki/FH_Ober%C3%B6sterreich University of Applied Sciences Upper Austria]
+| awards             = [https://ocg.at/fp-fh National IT Incentive Award Winner]
+| website            =
+*[https://beacons.ai/kornelia.stoiber Homepage]
+*[https://facebook.com/kornelia.stoiber Facebook]
+*[https://x.com/KorneliaStoiber X.com]
+}}
+
+{{Infobox
+ | header1 = KorneliaStoiber<br><span style="font-weight: normal">— [https://en.wikipedia.org/wiki/Wikipedian Wikipedian] —</span>
+ | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [https://en.wikipedia.org/wiki/IBM_Research IBM Research])
+ | label3 = Pronouns | data3 = [https://en.wikipedia.org/wiki/She/her she/her]
+ | label4 = Country | data4 = 🇦🇹[https://en.wikipedia.org/wiki/Austria Austria]
+ | label5 = Current&nbsp;location | data5 = [https://en.wikipedia.org/wiki/Vienna Vienna]
+ | label6 = Languages | data6 = [https://en.wikipedia.org/wiki/English English], [https://en.wikipedia.org/wiki/German German], [https://en.wikipedia.org/wiki/Spanish Spanish]
+ | label7 = Time zone | data7 = [https://en.wikipedia.org/wiki/UTC%2B01:00 CET (UTC+01:00)],<br>[https://en.wikipedia.org/wiki/UTC%2B02:00 CEST (UTC+02:00)]
+ | label8 = 
+Current&nbsp;time | data8 = [[Winter]]: {{CURRENTTIME}}+01:00 <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small> <br>[[Summer]]: {{CURRENTTIME}}+02:00 <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small>
+ | header10 = Userboxes
+ | label11 = | data11 = {{User Austria}}<br>{{User Wikipedian for|year=2024|month=10|day=05}}
+}}
 
 '''Kornelia Stoiber''' is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist] from [https://en.wikipedia.org/wiki/Austria Austria] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [https://en.wikipedia.org/wiki/design design] and playing the [https://en.wikipedia.org/wiki/clarinet clarinet].<ref>{{Cite web
 |title=Kornelia Stoiber on Beacons
@@ -20,14 +46,12 @@
 [https://en.wikipedia.org/wiki/Draft:Organic_Batteries Draft:Organic Batteries] and 
 [https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking Safety].
 
-{| style="float: left; margin-right: 1em; margin-bottom: 1em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+{|style="margin-bottom: 1em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
 |-
 | {{#babel:de|en-4|es-1}}
 |}
-
-{{clear}}
 
 '''Books:''' This user is currently looking forward to the publication of the book [https://en.wikipedia.org/wiki/Patriot_(book) "Patriot: A Memoir"] by [https://en.wikipedia.org/wiki/Alexei_Navalny Alexei Navalny].
 
@@ -39,12 +63,6 @@ More information is available on the [https://wikipedia.org/wiki/Wikipedia Wikip
 
 {{clear}}
 {{Userpage}}
-{{clear}}
-
-== Quotes ==
-* [...] all the [...] [[Russians]] who oppose [[Vladimir Putin|Putin]] [...] now desperately need the support of the whole world, all good people.<br>''Original:'' They, like all the other [[Russians]] who oppose [[Vladimir Putin|Putin]], now desperately need the support of the whole world, all good people.<br>''Original:'' Им, как и всем другим выступающим против Путина россиянам, сейчас очень нужна поддержка всего мира, всех добрых людей.
-** [https://www.instagram.com/p/C66BIf7tbJc Yulia Navalnaya on Instagram (13 May 2024)]
-** [[Yulia Navalnaya]] on [[Wikiquote]]
 
 == Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]
@@ -81,8 +99,5 @@ More information is available on the [https://wikipedia.org/wiki/Wikipedia Wikip
 {{Reflist}}
 
 == External links ==
-{{wikipedia|User:KorneliaStoiber}}
-{{commons|User:KorneliaStoiber}}
-
-*{{Wikipedia-inline|User:KorneliaStoiber}}
-*{{Commons-inline|User:KorneliaStoiber}}
+*{{Wikipedia-inline|User:KorneliaStoiber}} is also on Wikipedia
+*{{Wikiquote-inline|User:KorneliaStoiber}}
