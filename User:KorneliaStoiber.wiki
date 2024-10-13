@@ -32,9 +32,10 @@ Current&nbsp;time | data8 = [https://en.wikipedia.org/wiki/Winter Winter]: {{#ti
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 145+
+ | label12 = Edit count | data12 = 190+
  | header13 = Userboxes
  | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=190 |info=This user has made over '''190''' edits.}}
 {{Collapse top|Further Information}}
 {{User Austria}}
 {{Collapse bottom}}
