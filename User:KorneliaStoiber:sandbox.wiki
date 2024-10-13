@@ -1,0 +1,33 @@
+Some tests in the sandbox.
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
+
+{{userbox
+| bodyclass     = <!--Adds an HTML class attribute to the entire template's HTML table, to allow for styling, emission of microformats, etc.-->
+| border-c      = #d0d0d0
+| border-s      = 1
+| float         = left
+| id            = 430
+| id-a          = center
+| id-c          = #d0d0d0
+| id-fc         = black
+| id-h          = 45
+| id-lh         = 1.25em
+| id-op         = <!--id other CSS parameters-->
+| id-p          = 0 1px 0 0
+| id-s          = 14
+| id-w          = 45
+| info-class    = <!--Adds an HTML class attribute to the "info" HTML table-row, to allow for styling, emission of microformats, etc.-->
+| info          = This user has made over '''430''' edits.
+| info-a        = left
+| info-c        = #e0e0e0
+| info-fc       = black
+| info-lh       = 1.25em
+| info-op       = <!--info other CSS parameters-->
+| info-p        = 0 4px 0 4px
+| info-s        = 8
+| nocat         = false
+}}
+
+{{clear}}
+<br>
