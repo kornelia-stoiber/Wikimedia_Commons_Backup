@@ -32,10 +32,10 @@ Current&nbsp;time | data8 = [https://en.wikipedia.org/wiki/Winter Winter]: {{#ti
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 190+
+ | label12 = Edit count | data12 = 200+
  | header13 = Userboxes
  | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=190 |info=This user has made over '''190''' edits.}}
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=200 |info=This user has made over '''200''' edits.}}
 {{Collapse top|Further Information}}
 {{User Austria}}
 {{Collapse bottom}}
@@ -127,6 +127,9 @@ More information is available on the [https://en.wikipedia.org/wiki/Wikipedia Wi
 
 == References ==
 {{Reflist}}
+
+== Backups ==
+[https://en.wikipedia.org/wiki/Backups Backups] of the pages created with this [https://en.wikipedia.org/wiki/Wikimedia_Commons Wikimedia Commons] account can be found in the [https://en.wikipedia.org/wiki/Github Github] repository [https://github.com/kornelia-stoiber/Wikimedia_Commons_Backup kornelia-stoiber/Wikimedia_Commons_Backup].
 
 == External links ==
 *{{Wikipedia-inline|User:KorneliaStoiber}} is also on Wikipedia
