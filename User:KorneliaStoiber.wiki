@@ -20,17 +20,24 @@
 }}
 
 {{Infobox
- | header1 = KorneliaStoiber<br><span style="font-weight: normal">— [https://en.wikipedia.org/wiki/Wikipedian Wikipedian] —</span>
+ | header1 = '''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal">— [https://en.wikipedia.org/wiki/Wikipedian Wikipedian] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
  | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [https://en.wikipedia.org/wiki/IBM_Research IBM Research])
  | label3 = Pronouns | data3 = [https://en.wikipedia.org/wiki/She/her she/her]
- | label4 = Country | data4 = 🇦🇹[https://en.wikipedia.org/wiki/Austria Austria]
+ | label4 = Country | data4 = {{flag|Austria}}
  | label5 = Current&nbsp;location | data5 = [https://en.wikipedia.org/wiki/Vienna Vienna]
  | label6 = Languages | data6 = [https://en.wikipedia.org/wiki/English English], [https://en.wikipedia.org/wiki/German German], [https://en.wikipedia.org/wiki/Spanish Spanish]
  | label7 = Time zone | data7 = [https://en.wikipedia.org/wiki/UTC%2B01:00 CET (UTC+01:00)],<br>[https://en.wikipedia.org/wiki/UTC%2B02:00 CEST (UTC+02:00)]
  | label8 = 
-Current&nbsp;time | data8 = [[Winter]]: {{CURRENTTIME}}+01:00 <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small> <br>[[Summer]]: {{CURRENTTIME}}+02:00 <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small>
- | header10 = Userboxes
- | label11 = | data11 = {{User Austria}}<br>{{User Wikipedian for|year=2024|month=10|day=05}}
+Current&nbsp;time | data8 = [https://en.wikipedia.org/wiki/Winter Winter]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}} [https://en.wikipedia.org/wiki/UTC%2B01:00 UTC+01:00] <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small> <br>[https://en.wikipedia.org/wiki/Summer Summer]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}} [https://en.wikipedia.org/wiki/UTC%2B02:00 UTC+02:00] <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small>
+ | header9 = Account statistics
+ | label10 = Article count | data10 = 6+
+ | label11 = Quote count | data11 = 1+
+ | label12 = Edit count | data12 = 145+
+ | header13 = Userboxes
+ | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
+{{Collapse top|Further Information}}
+{{User Austria}}
+{{Collapse bottom}}
 }}
 
 '''Kornelia Stoiber''' is a [https://en.wikipedia.org/wiki/Computer_scientist computer scientist] from [https://en.wikipedia.org/wiki/Austria Austria] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [https://en.wikipedia.org/wiki/design design] and playing the [https://en.wikipedia.org/wiki/clarinet clarinet].<ref>{{Cite web
@@ -46,7 +53,7 @@ Current&nbsp;time | data8 = [[Winter]]: {{CURRENTTIME}}+01:00 <small>[[https://c
 [https://en.wikipedia.org/wiki/Draft:Organic_Batteries Draft:Organic Batteries] and 
 [https://en.wikipedia.org/wiki/Draft:Stalking_Safety Draft:Stalking Safety].
 
-{|style="margin-bottom: 1em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+{| style="padding:0.3em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
 |-
@@ -59,7 +66,7 @@ Current&nbsp;time | data8 = [[Winter]]: {{CURRENTTIME}}+01:00 <small>[[https://c
 
 '''Music:''' This user's favourite performance extracts are currently from the [https://en.wikipedia.org/wiki/Concerto_in_F_(Gershwin) Gershwin Concerto in F] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [https://en.wikipedia.org/wiki/Yuja_Wang Yuja Wang] and [https://en.wikipedia.org/wiki/Michael_Tilson_Thomas Michael Tilson Thomas] together with the [https://en.wikipedia.org/wiki/London_Symphony_Orchestra London Symphony Orchestra].
 
-More information is available on the [https://wikipedia.org/wiki/Wikipedia Wikipedia] user page [https://wikipedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
+More information is available on the [https://en.wikipedia.org/wiki/Wikipedia Wikipedia] user page [https://en.wikipedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber] and on the [https://en.wikipedia.org/wiki/Wikiquote Wikiquote] user page [https://en.wikiquote.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
 
 {{clear}}
 {{Userpage}}
