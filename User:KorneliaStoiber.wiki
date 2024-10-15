@@ -103,3 +103,48 @@ More information is available on the [https://en.wikipedia.org/wiki/Wikipedia Wi
 {|style="margin-bottom: 0.5em; border: #a3bcbf solid 1px; background: #f5feff; text-align: center"
 |<small>'''This is a Wikimedia Commons [[Wikipedia:Wikipedia:User_pages|user page]].'''<br>If you find this page on any site other than Wikimedia Commons, you are viewing a [[Wikipedia:Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated, and that the user this page belongs to may have no personal affiliation with any site other than Wikimedia Commons itself. The original page is located at [https://commons.wikimedia.org/wiki/User:KorneliaStoiber https://commons.wikimedia.org/wiki/User:KorneliaStoiber].</small>
 |}
+
+== Social media ==
+[https://www.beacons.ai/kornelia.stoiber Homepage]
+•
+[https://www.facebook.com/kornelia.stoiber Facebook]
+•
+[https://www.x.com/KorneliaStoiber X.com]
+•
+[https://www.mastodon.social/@kornelia_stoiber Mastodon]
+•
+[https://www.instagram.com/kornelia.stoiber Instagram]
+•
+[https://www.youtube.com/@kornelia.stoiber YouTube]
+•
+[https://www.pinterest.com/kornelia_stoiber Pinterest]
+•
+[https://www.soundcloud.com/kornelia_stoiber SoundCloud]
+•
+[https://www.behance.net/kornelia_stoiber Behance]
+•
+[https://dribbble.com/kornelia_stoiber Dribbble] 
+•
+[https://www.deviantart.com/KorneliaStoiber DeviantArt]
+•
+[https://www.flickr.com/photos/kornelia_stoiber Flickr]
+•
+[https://www.calameo.com/read/007135556b63298c9c71c Calaméo]
+•
+[https://www.medium.com/@kornelia.stoiber Medium]
+•
+[https://medium.com/@kornelia.stoiber.stalked Stalked]
+•
+[https://www.github.com/kornelia-stoiber GitHub]
+•
+[https://www.linkedin.com/in/kornelia-stoiber LinkedIn]
+
+== References ==
+{{Reflist}}
+
+== Backups ==
+[https://en.wikipedia.org/wiki/Backups Backups] of the pages created with this [https://en.wikipedia.org/wiki/Wikimedia_Commons Wikimedia Commons] account can be found in the [https://en.wikipedia.org/wiki/Github Github] repository [https://github.com/kornelia-stoiber/Wikimedia_Commons_Backup kornelia-stoiber/Wikimedia_Commons_Backup].
+
+== External links ==
+*{{Wikipedia-inline|User:KorneliaStoiber}} is also on Wikipedia
+*{{Wikiquote-inline|User:KorneliaStoiber}}
