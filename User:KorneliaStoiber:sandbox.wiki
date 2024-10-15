@@ -1,7 +1,275 @@
 Some tests in the sandbox.
 
+{{clear}}
+
+{|style="float: left; margin-right: 0.5em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
+|
+{|style="float: right; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+|-
+| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
+|-
+|{{#babel:en-n|en-1|en-2|en-3|en-4|en-5}}
+|}
+<br>
+{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+|-
+| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
+|-
+|
+
+{|style="margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
+|-
+| '''[[Commons:Babel|Babel user information]]'''
+|-
+| {{Userbox |border-c=#93F4AD |border-s=1 |id-c=#93F4AD |id-s=12 |id-fc=#000 |info-c=#CFFADE |info-s=8 |info-fc=#000 |id=de-N |info=Diese Benutzerin spricht [https://commons.wikimedia.org/wiki/Category:User_de Deutsch] als [https://commons.wikimedia.org/wiki/Category:User_de-N Muttersprache].}}<br>{{Userbox |border-c=#91DDE5 |border-s=1 |id-c=#91DDE5 |id-s=12 |id-fc=#000 |info-c=#D8F6FE |info-s=8 |info-fc=#000 |id=en-5 | info=This user has [https://commons.wikimedia.org/wiki/Category:User_en-5 professional] knowledge of [https://commons.wikimedia.org/wiki/Category:User_en English].}}<br>{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=12 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=es-1 |info=Esta usuaria tiene un conocimiento [https://commons.wikimedia.org/wiki/Category:User_es-1 básico] del [https://commons.wikimedia.org/wiki/Category:User_es español].}}
+|-
+| <small>[https://commons.wikimedia.org/wiki/Category:Users_by_language Users by language]</small>
+|-
+|}
+|}
+|}
+
+{|style="float: left; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9;"
+|<syntaxhighlight>
+Dark:
+#999999
+60%
+15
+#a58aa8
+orig dark
+#af7cb6
+orig light
+#b172c0
+
+Middle:
+#DDDDDD
+86.7%
+15
+#e1d8e2
+orig dark
+#e4d3e7
+orig light
+#e5d0ea
+
+Light:
+#EEEEEE
+93.3%
+4
+#eeedef
+15
+#f0ebf0
+orig dark
+#f2e9f3
+orig light
+#f2e7f4
+
+Middle:
+#DDDDDD
+86.7%
+orig dark #93F4AD
+#c1f9d0
+orig light #CFFADE
+#c2f9d5
+</syntaxhighlight>
+|}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''{{age in days|2024|10|5}} days'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
 {{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
 
+{{Collapse top|Further Information|bg=#c1f9d0}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+
+{{Collapse bottom}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Collapse top|Further Information}}
+{{Collapse bottom}}
+
+{{Collapse top|orig light #c2f9d5|bg=#c2f9d5}}
+{{Collapse bottom}}
+
+{{Collapse top|orig light #CFFADE|bg=#CFFADE}}
+{{Collapse bottom}}
+
+{{Collapse top|orig dark #c1f9d0|bg=#c1f9d0}}
+{{Collapse bottom}}
+
+{{Collapse top|orig dark #93F4AD|bg=#93F4AD}}
+{{Collapse bottom}}
+
+{{Collapse top|Further Information|bg=#DDDDDD}}
+{{Collapse bottom}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#b172c0 |border-s=1 |id-c=#e5d0ea |id-s=14 |id-fc=#000 |info-c=#f2e7f4 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''. (orig light)}}
+
+{{Userbox | id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+
+{{Collapse top|orig light #c2f9d5|bg=#c2f9d5}}
+{{Collapse bottom}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''. (orig dark)}}
+
+{{Userbox | id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+
+{{Collapse top|orig dark #c1f9d0|bg=#c1f9d0}}
+{{Collapse bottom}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#b172c0 |border-s=1 |id-c=#e5d0ea |id-s=14 |id-fc=#000 |info-c=#f2e7f4 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''. (orig light)}}
+
+{{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''. (orig dark)}}
+
+{{Userbox |border-c=#a58aa8 |border-s=1 |id-c=#e1d8e2 |id-s=14 |id-fc=#000 |info-c=#f0ebf0 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''.}}
+
+{{Userbox |border-c=#a58aa8 |border-s=1 |id-c=#e1d8e2 |id-s=14 |id-fc=#000 |info-c=#eeedef |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=14 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''.}}
+
+{{Userbox | id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+
+{{Collapse top|Further Information|bg=#CFFADE}}
+{{Collapse bottom}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Collapse top|Further Information}}
+{{Collapse bottom}}
+
+{{Collapse top|Further Information|bg=#CFFADE}}
+{{Collapse bottom}}
+
+{{Collapse top|Further Information|bg=#93F4AD}}
+{{Collapse bottom}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{User Wikipedian for|year=2024|month=10|day=05}}
+
+{{Userbox | id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#B1A3BF |border-s=1 |id-c=#E0CEF2 |id-s=14 |id-fc=#000 |info-c=#FAF5FF |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''.}}
+
+{{User Wikipedian for|year=2024|month=10|day=05}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#BFBFBF |border-s=1 |id-c=#F2F2F2 |id-s=14 |id-fc=#000 |info-c=#FFF |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |id=430 |info=This user has made over '''430''' edits.}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{User Wikipedian for|year=2024|month=10|day=05}}
+
+{{Userbox | id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |border-c=#A3B1BF |border-s=1 |id-c=#CEE0F2 |id-s=14 |id-fc=#000 |info-c=#F5FAFF |info-s=8 |info-fc=#000 |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |border-c=#BFA3B1 |border-s=1 |id-c=#F2CEE0 |id-s=14 |id-fc=#000 |info-c=#FFF5FA |info-s=8 |info-fc=#000 |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |border-c=#BFB1A3 |border-s=1 |id-c=#F2E0CE |id-s=14 |id-fc=#000 |info-c=#FFFAF5 |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{Userbox |border-c=#B1A3BF |border-s=1 |id-c=#E0CEF2 |id-s=14 |id-fc=#000 |info-c=#FAF5FF |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''10 days'''.}}
+
+{{Userbox |border-c=#BFBFBF |border-s=1 |id-c=#F2F2F2 |id-s=14 |id-fc=#000 |info-c=#FFF |info-s=8 |info-fc=#000 |id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |border-c=#BFBFBF |border-s=1 |id-c=#F2F2F2 |id-s=14 |id-fc=#000 |info-c=#FFF |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |border-c=#A3B1BF |border-s=1 |id-c=#CEE0F2 |id-s=14 |id-fc=#000 |info-c=#F5FAFF |info-s=8 |info-fc=#000 |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |border-c=#BFA3B1 |border-s=1 |id-c=#F2CEE0 |id-s=14 |id-fc=#000 |info-c=#FFF5FA |info-s=8 |info-fc=#000 |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |border-c=#BFB1A3 |border-s=1 |id-c=#F2E0CE |id-s=14 |id-fc=#000 |info-c=#FFFAF5 |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
+{{User Wikipedian for|year=2024|month=10|day=05}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
+
+{{Userbox |border-c=#A3B1BF |border-s=1 |id-c=#F5FAFF |id-s=14 |id-fc=#000 |info-c=#CEE0F2 |info-s=8 |info-fc=#000 |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Wikipedia:Engineer|engineer]]'''.}}
+
+{{Userbox |border-c=#BFA3B1 |border-s=1 |id-c=#FFF5FA |id-s=14 |id-fc=#000 |info-c=#F2CEE0 |info-s=8 |info-fc=#000 |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |border-c=#BFB1A3 |border-s=1 |id-c=#FFFAF5 |id-s=14 |id-fc=#000 |info-c=#F2E0CE |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+}}
+
+{{Infobox
+ | label1 = | data1 =
 {{userbox
 | bodyclass     = <!--Adds an HTML class attribute to the entire template's HTML table, to allow for styling, emission of microformats, etc.-->
 | border-c      = #d0d0d0
@@ -27,6 +295,7 @@ Some tests in the sandbox.
 | info-p        = 0 4px 0 4px
 | info-s        = 8
 | nocat         = false
+}}
 }}
 
 {{clear}}
