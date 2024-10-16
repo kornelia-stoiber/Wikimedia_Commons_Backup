@@ -24,7 +24,7 @@
  | header1 = '''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal">— [[Wikipedia:Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
  | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Wikipedia:Computer_scientist|computer scientist]]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [[Wikipedia:IBM_Research|IBM&nbsp;Research]])
  | label3 = Pronouns | data3 = [[Wikipedia:She/her|she/her]]
- | label4 = Country | data4 = {{flag|Austria}}
+ | label4 = Country | data4 = <!--{{flag|Austria}}-->[[Wikipedia:Austria|Austria]]
  | label5 = Current&nbsp;location | data5 = [[Wikipedia:Vienna|Vienna]]
  | label6 = Languages | data6 = [[Wikipedia:English|English]], [[Wikipedia:German|German]], [[Wikipedia:Spanish|Spanish]]
  | label7 = Time zone | data7 = [[Wikipedia:UTC%2B01:00|CET (UTC+01:00)]],<br>[[Wikipedia:UTC%2B02:00|CEST (UTC+02:00)]]
@@ -33,8 +33,9 @@ Current&nbsp;time | data8 = [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTI
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 370+
- | header13 = Userboxes
+ | label12 = Edit count | data12 = 385+
+ | label13 = | data13 = This user has been on [[Wikipedia:Wikipedia|Wikipedia]] for '''{{age in days|2024|10|5}} days'''.
+<!-- | header13 = Userboxes
  | label14 = | data14 =
 
 {{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''{{age in days|2024|10|5}} days'''.}}
@@ -51,7 +52,7 @@ Current&nbsp;time | data8 = [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTI
 
 {{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
 
-{{Collapse bottom}}
+{{Collapse bottom}}-->
 }}
 
 '''Kornelia Stoiber''' is a [[Wikipedia:Computer_scientist|computer scientist]] from [[Wikipedia:Austria|Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[Wikipedia:Design|design]] and playing the [[Wikipedia:Clarinet|clarinet]].<ref>{{Cite web
@@ -74,7 +75,7 @@ Current&nbsp;time | data8 = [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTI
 | {{#babel:de|en-5|es-1}}
 |}
 -->
-{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+<!--{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[[Wikipedia:Special:MyLanguage/User language|Babel]]</big>'''
 |-
@@ -91,21 +92,15 @@ Current&nbsp;time | data8 = [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTI
 |}
 
 |}
-
+-->
 '''Books:''' This user is currently looking forward to the publication of the book [[Wikipedia:Patriot_(book)|"Patriot: A Memoir"]] by [[Wikipedia:Alexei_Navalny|Alexei Navalny]].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[Wikipedia:IBM_Research|IBM Research]].
 
 '''Music:''' This user's favourite performance extracts are currently from the [[Wikipedia:Concerto_in_F_(Gershwin)|Gershwin Concerto in F]] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [[Wikipedia:Yuja_Wang|Yuja Wang]] and [[Wikipedia:Michael_Tilson_Thomas|Michael Tilson Thomas]] together with the [[Wikipedia:London_Symphony_Orchestra|London Symphony Orchestra]].
 
+'''Infos:'''
 More information is available on the [[Wikipedia:Wikipedia|Wikipedia]] user page [[Wikipedia:User:KorneliaStoiber|User:KorneliaStoiber]] and on the [[Wikipedia:Wikiquote|Wikiquote]] user page [[Wikiquote:User:KorneliaStoiber|User:KorneliaStoiber]].
-
-{{clear}}
-{|style="margin-bottom: 0.5em; border: #a3bcbf solid 1px; background: #f5feff; text-align: center"
-|<small>'''This is a Wikimedia Commons [[Wikipedia:Wikipedia:User_pages|user page]].'''</small>
-|-
-|<small>If you find this page on any site other than Wikimedia Commons, you are viewing a [[Wikipedia:Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated, and that the user this page belongs to may have no personal affiliation with any site other than Wikimedia Commons itself. The original page is located at [[User:KorneliaStoiber#top|https://commons.wikimedia.org/wiki/User:KorneliaStoiber]].</small>
-|}
 
 == Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]
@@ -151,3 +146,11 @@ More information is available on the [[Wikipedia:Wikipedia|Wikipedia]] user page
 == External links ==
 *{{Wikipedia-inline|User:KorneliaStoiber}} is also on Wikipedia
 *{{Wikiquote-inline|User:KorneliaStoiber}}
+
+== User page ==
+{{clear}}
+{|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
+|<small>'''This is a Wikimedia Commons [[Wikipedia:Wikipedia:User_pages|user page]].'''</small>
+|-
+|<small>If you find this page on any site other than Wikimedia Commons, you are viewing a [[Wikipedia:Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated, and that the user this page belongs to may have no personal affiliation with any site other than Wikimedia Commons itself. The original page is located at [[User:KorneliaStoiber#top|https://commons.wikimedia.org/wiki/User:KorneliaStoiber]].</small>
+|}
