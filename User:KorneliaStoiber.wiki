@@ -14,7 +14,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Time zone''' || [[Wikipedia:UTC%2B01:00|CET (UTC+01:00)]],<br>[[Wikipedia:UTC%2B02:00|CEST (UTC+02:00)]]
 |-
-| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}}<br><span style="white-space:nowrap;">[[Wikipedia:UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span><br>[[Wikipedia:Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}}<br><span style="white-space:nowrap;">[[Wikipedia:UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span>
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Wikipedia:Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}}<br><span style="white-space:nowrap;">[[Wikipedia:UTC%2B01:00|UTC+01:00]] <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span><br>[[Wikipedia:Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}}<br><span style="white-space:nowrap;">[[Wikipedia:UTC%2B02:00|UTC+02:00]] <small>[[https://commons.wikimedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span>
 |-
 | style="text-align: center; vertical-align: center;" colspan=2| '''Professional details'''
 |-
@@ -38,7 +38,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 425+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 430+
 |-
 | style="text-align: left; vertical-align: top;" | '''Wikipedian'''
 || {{Age in years, months and days|year=2024|month=10|day=5}}
