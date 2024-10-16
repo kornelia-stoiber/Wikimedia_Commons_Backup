@@ -1,35 +1,11 @@
-Some tests in the sandbox.
+{{User sandbox}}
+<!-- EDIT BELOW THIS LINE -->
+
+'''Kornelia Stoiber's [[Wikipedia:Wikipedia:About_the_sandbox|user sandbox]]''' is a place for testing [[Wikipedia:Wikicode|Wikicode]].
 
 {{clear}}
 
-{|style="float: left; margin-right: 0.5em; margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
-|
-{|style="float: right; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
-|-
-| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
-|-
-|{{#babel:en-n|en-1|en-2|en-3|en-4|en-5}}
-|}
-<br>
-{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
-|-
-| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
-|-
-|
-
-{|style="margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
-|-
-| '''[[Commons:Babel|Babel user information]]'''
-|-
-| {{Userbox |border-c=#93F4AD |border-s=1 |id-c=#93F4AD |id-s=12 |id-fc=#000 |info-c=#CFFADE |info-s=8 |info-fc=#000 |id=de-N |info=Diese Benutzerin spricht [https://commons.wikimedia.org/wiki/Category:User_de Deutsch] als [https://commons.wikimedia.org/wiki/Category:User_de-N Muttersprache].}}<br>{{Userbox |border-c=#91DDE5 |border-s=1 |id-c=#91DDE5 |id-s=12 |id-fc=#000 |info-c=#D8F6FE |info-s=8 |info-fc=#000 |id=en-5 | info=This user has [https://commons.wikimedia.org/wiki/Category:User_en-5 professional] knowledge of [https://commons.wikimedia.org/wiki/Category:User_en English].}}<br>{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=12 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=es-1 |info=Esta usuaria tiene un conocimiento [https://commons.wikimedia.org/wiki/Category:User_es-1 básico] del [https://commons.wikimedia.org/wiki/Category:User_es español].}}
-|-
-| <small>[https://commons.wikimedia.org/wiki/Category:Users_by_language Users by language]</small>
-|-
-|}
-|}
-|}
-
-{|style="float: left; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9;"
+{|style="float: left; margin-right: 0.5em; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9;"
 |<syntaxhighlight>
 Dark:
 #999999
@@ -72,6 +48,31 @@ orig light #CFFADE
 #c2f9d5
 </syntaxhighlight>
 |}
+
+<div style="float: left;">
+{|style="float: left; margin-right: 0.5em; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+|-
+| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
+|-
+|{{#babel:en-n|en-1|en-2|en-3|en-4|en-5}}
+|}
+
+{|style="float: left; clear: left; margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+|-
+| '''<big>[https://en.wikipedia.org/wiki/User_language Babel]</big>'''
+|-
+|
+{|style="margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
+|-
+| '''[[Commons:Babel|Babel user information]]'''
+|-
+| {{Userbox |border-c=#93F4AD |border-s=1 |id-c=#93F4AD |id-s=12 |id-fc=#000 |info-c=#CFFADE |info-s=8 |info-fc=#000 |id=de-N |info=Diese Benutzerin spricht [https://commons.wikimedia.org/wiki/Category:User_de Deutsch] als [https://commons.wikimedia.org/wiki/Category:User_de-N Muttersprache].}}<br>{{Userbox |border-c=#91DDE5 |border-s=1 |id-c=#91DDE5 |id-s=12 |id-fc=#000 |info-c=#D8F6FE |info-s=8 |info-fc=#000 |id=en-5 | info=This user has [https://commons.wikimedia.org/wiki/Category:User_en-5 professional] knowledge of [https://commons.wikimedia.org/wiki/Category:User_en English].}}<br>{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=12 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=es-1 |info=Esta usuaria tiene un conocimiento [https://commons.wikimedia.org/wiki/Category:User_es-1 básico] del [https://commons.wikimedia.org/wiki/Category:User_es español].}}
+|-
+| <small>[https://commons.wikimedia.org/wiki/Category:Users_by_language Users by language]</small>
+|-
+|}
+|}
+</div>
 
 {{Infobox
  | label1 = | data1 =
@@ -297,6 +298,3 @@ orig light #CFFADE
 | nocat         = false
 }}
 }}
-
-{{clear}}
-<br>
