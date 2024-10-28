@@ -36,9 +36,9 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Article&nbsp;count''' || 6+
 |-
-| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
+| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 3+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,170+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,210+
 |-
 | style="text-align: left; vertical-align: top;" | '''Wikipedian'''
 || {{Age in years, months and days|year=2024|month=10|day=5}}
@@ -63,7 +63,7 @@
 |language=en
 |url-status=live}}</ref>
 
-'''Books:''' This user is currently looking forward to the publication of the book [[Wikipedia:Patriot_(book)|"Patriot: A Memoir"]] by [[Wikipedia:Alexei_Navalny|Alexei Navalny]].
+'''Books:''' This user is currently reading the book [[Wikipedia:Patriot_(book)|"Patriot: A Memoir"]] by [[Wikipedia:Alexei_Navalny|Alexei Navalny]].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[Wikipedia:IBM_Research|IBM Research]].
 
@@ -97,6 +97,7 @@ More information is available on the [[Wikipedia:Wikipedia|Wikipedia]] user page
 
 == Backups ==
 [[Wikipedia:Backups|Backups]] of the pages created with this [[Wikipedia:Wikimedia_Commons|Wikimedia Commons]] account can be found in the [[Wikipedia:Github|Github]] repository [https://github.com/kornelia-stoiber/Wikimedia_Commons_Backup kornelia-stoiber/Wikimedia_Commons_Backup].
+{{clear}}
 
 == External links ==
 *{{Wikipedia-inline|User:KorneliaStoiber}} is also on Wikipedia
